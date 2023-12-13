@@ -1,0 +1,35 @@
+body{
+   background-color: #BFB3A8; 
+}
+
+div {
+    text-align: center;
+}
+
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+    color: #401F1F;
+}
+
+button {
+    width: 150px;
+    height: 80px;
+   
+}
+.btn{
+    background-color: #A67665;
+    color: #401F1F;
+}
+.btn:hover{
+    background-color: #401F1F;
+    color: #A67665;
+}
+.output{
+    background-color: #A67665;
+}
+
+p{
+    font-size: 35px;
+    color: #401F1F;
+}
